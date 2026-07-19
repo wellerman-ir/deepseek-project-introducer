@@ -44,6 +44,7 @@ Start Chrome with remote debugging:
 
 bash
 chrome.exe --remote-debugging-port=9222 --user-data-dir="%TEMP%\selenium-profile"
+If chrome.exe is not on path ,  you should find the chrome location on your system and add it ,
 Navigate to DeepSeek Chat (chat.deepseek.com) and sign in
 
 Run the tool:
