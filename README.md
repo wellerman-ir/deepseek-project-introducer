@@ -25,6 +25,9 @@
 - Python 3.8+
 - Google Chrome browser
 - ChromeDriver (matching your Chrome version)
+- downlaod Chrome driver from this address : 
+    https://googlechromelabs.github.io/chrome-for-testing/#stable
+- Then put the driver in root of this project .  
 - [DeepSeek Chat](https://chat.deepseek.com) account
 
 ### Installation
